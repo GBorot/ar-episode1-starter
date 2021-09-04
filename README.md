@@ -1,7 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tuto intéressant qui reprend des awwwards et les refait avec React et GSAP
 
-## Available Scripts
+## Lien vers la video de tuto :
 
-In the project directory, you can run:
-
-### `yarn start`
+https://www.youtube.com/watch?v=ig7ZPRRqMz0
